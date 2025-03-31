@@ -17,13 +17,13 @@
 - Repetir el proceso para la **selección de los acompañamientos** (comentario y precio)
 - Calcular y mostrar el **total del pedido**
 
-## BONUS Features
+## Funcionalidades Extra
 - Implementar **menús para desayuno, almuerzo y cena**:
 - El **desayuno** tiene elementos diferentes
 - **Almuerzo y cena** comparten elementos pero tienen **precios diferentes**
 - Permitir la **personalización de los platos** (cómo se preparan y su impacto en el costo final)
 
-## Mejoras
+## Mejoras añadidas
 - Validación del formato de hora en **HH:MM** para reservas.
 - Comentarios en cada función para mayor claridad en el código.
 - Implementación de **toFixed(2)** para mostrar los precios con dos decimales.
