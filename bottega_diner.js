@@ -51,15 +51,15 @@ function mostrarMenu() {
     } else if (hora >= 12 && hora < 18) {
       menu = {
         tipo: "Lunch",
-        primeros: { "1": ["Paella de marisco", 15.75], "2": ["Patatas al horno", 10], "3": ["Alubias con sacramentos", 12.50] },
-        segundos: { "1": ["Chuleta de cordero", 20.50], "2": ["Merluza", 19.75], "3": ["Hamburguesa vegetal", 15] },
+        primeros: { "1": ["Paella de marisco", 5.75], "2": ["Patatas al horno", 4.45], "3": ["Alubias con sacramentos", 6.50] },
+        segundos: { "1": ["Chuleta de cordero", 10.50], "2": ["Merluza", 9.75], "3": ["Hamburguesa vegetal", 8] },
         postres: { "1": ["Café", 2], "2": ["Fruta", 3], "3": ["Yogur", 2.50] }
       };
     } else if (hora >= 18 && hora < 23) {
       menu = {
         tipo: "Dinner",
-        primeros: { "1": ["Paella de marisco", 18.90], "2": ["Patatas al horno", 12.50], "3": ["Alubias con sacramento", 17] },
-        segundos: { "1": ["Chuleta de cordero", 22.50], "2": ["Merluza", 21.45], "3": ["Hamburguesa vegetal", 18] },
+        primeros: { "1": ["Paella de marisco", 8.90], "2": ["Patatas al horno", 5.50], "3": ["Alubias con sacramento", 8] },
+        segundos: { "1": ["Chuleta de cordero", 12.50], "2": ["Merluza", 11.45], "3": ["Hamburguesa vegetal", 10] },
         postres: { "1": ["Café", 3], "2": ["Fruta", 4], "3": ["Yogur", 3.50] }
       };
     }
