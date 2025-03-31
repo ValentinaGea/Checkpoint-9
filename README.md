@@ -2,8 +2,6 @@
 
 # Build out a Diner Menu using JavaScript
 
-# Bottega Diner
-
 ## Requisitos
 - Tener un **Menú Principal** y un **Menú de Acompañamientos**
 - El usuario elige **un plato principal** y **dos acompañamientos** por un costo regular.
